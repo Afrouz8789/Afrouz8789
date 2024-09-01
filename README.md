@@ -1,5 +1,13 @@
 ## Hi there 👋
+👋 Hey there! I'm Ashar Afrouz, a code wizard from Bengaluru, India. I make web apps faster, sleeker, and sometimes even magical. When I’m not battling bugs, you can find me trying to convince my code to deploy itself (still working on that)
 
+💻 Skills: JavaScript, TypeScript, React, Next.js, Node.js, and a sprinkle of Kubernetes for good luck.
+
+🚀 Currently casting spells at Ather, where my code powers electric dreams.
+
+🛠️ Fun fact: My commits have been known to cause spontaneous high-fives.
+
+📫 Say hi: [Linkedin](www.linkedin.com/in/ashar-afrouz-564674217)
 <!--
 **Afrouz8789/Afrouz8789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
